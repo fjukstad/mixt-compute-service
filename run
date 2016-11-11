@@ -1,0 +1,4 @@
+docker run -ti -p 8787:80 \
+    --restart='always' \
+    --name mixt-compute-backend fjukstad/mixt-compute-backend
+
