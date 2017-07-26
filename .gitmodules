@@ -1,6 +1,0 @@
-[submodule "huc"]
-	path = huc
-	url = git@bitbucket.org:bcimcgill/huc.git
-[submodule "bioc-bciutils"]
-	path = bioc-bciutils
-	url = git@bitbucket.org:bcimcgill/bioc-bciutils.git
